@@ -1,2 +1,2 @@
 # rsschool-cv
-RSSHOOL-CV
+https://Shrrrimp.github.io/rsschool-cv/
