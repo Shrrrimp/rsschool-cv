@@ -1,2 +1,4 @@
 # rsschool-cv
-https://Shrrrimp.github.io/rsschool-cv/cv
+rsschool-cv-html
+https://Shrrrimp.github.io/rsschool-cv/
+
